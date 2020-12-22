@@ -16,5 +16,9 @@ namespace TechJobsPersistent.Models
             Name = name;
             Description = description;
         }
+
+        internal class Name
+        {
+        }
     }
 }
